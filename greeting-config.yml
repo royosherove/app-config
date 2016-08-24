@@ -1,6 +1,10 @@
  security: 
         basic:
-                enabled: false # turn of securing our application endpoints
+                enabled: false 
  management: 
         security:
-                 enabled: false # turn of securing the actuator en
+                 enabled: false 
+
+logging: 
+        io:
+                pivotal: DEBUG
