@@ -4,6 +4,3 @@
  management: 
         security:
                  enabled: false 
-logging: 
-        io:
-                pivotal: DEBUG
