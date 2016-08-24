@@ -1,6 +1,9 @@
- security: 
+security: 
         basic:
-                enabled: false 
+                enabled: false
  management: 
         security:
-                 enabled: false 
+                 enabled: false
+logging:
+        io:
+                pivotal: DEBUG
